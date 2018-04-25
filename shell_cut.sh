@@ -1,7 +1,8 @@
-#!/bin/sh
-# my first shell 
+#!/bin/bash
 cd ~
 mkdir shell_cut
-for(int i=0;i<10;i++)
+cd shell_cut
+for(( i=0;i<10;i++));
+do 
     touch test_$i.txt
 done
