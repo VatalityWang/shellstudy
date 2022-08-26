@@ -14,6 +14,9 @@ for rx in ./*; do
    cd ..
 done 
 
-echo "helloworld"
+
+
+echo "finished"
+
 
 
