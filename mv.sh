@@ -19,4 +19,6 @@ done
 echo "finished"
 
 
+echo "just do it"
+
 
