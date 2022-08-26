@@ -15,6 +15,8 @@ for rx in ./*; do
 done 
 
 
+
 echo "finished"
+
 
 
