@@ -15,6 +15,10 @@ for rx in ./*; do
 done 
 
 
+
 echo "finished"
 
+
 echo "just do it"
+
+
